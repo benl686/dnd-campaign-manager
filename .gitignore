@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.streamlit/
+*.egg-info/
+dist/
+build/
+.tmp.driveupload/
+.tmp.drivedownload/
+.claude/
+
+# User campaign data — created locally by the app, never committed.
+# (data/ reference files ARE committed; see CLAUDE.md.)
+json/
+
+# save_json atomic-write artifacts (temp file + last-good backup)
+*.json.tmp
+*.json.bak
+
+# Personal notes
+me.txt
+Cinfo.txt

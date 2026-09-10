@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Con Artist",
+    "slug": "open5e_con-artist",
+    "gamesystem_key": "5e-2014",
+    "desc": "You have always had a knack for getting people to see your point of view, often to their own detriment. You know how people think, what they want, and how to best use that to your advantage.\n\nPeople should know better than to trust you when you offer exactly what they need for exactly as much money as they have, but for the desperate caution is a resource in short supply. Your mysterious bottles, unlikely rumors, and secret maps offer to deliver the salvation they need. When they realize they've been had, you're nowhere to be found.",
+    "sections": {
+      "Cover Story": "You have created a secondary persona that includes documents, mannerisms, a social presence and acquaintances. This also includes an alternate set of clothing and accessories as well as any elements needed for the disguise such as a wig or false teeth. Additionally, you can duplicate or fake documents-including official documents or personal correspondence-as long as you have seen a similar document and have an appropriate handwriting sample.",
+      "Equipment": "A set of fine clothes, a disguise kit, tools for your typical con (such as bottles full of colored water, a set of weighted dice, a deck of marked or filed cards, or a seal from an imaginary-or real-noble), and a pouch containing 15gp",
+      "Skill Proficiencies": "Deception, Sleight of Hand",
+      "Suggested Characteristics": "Coming soon!",
+      "Tool Proficiencies": "Two of your choice"
+    },
+    "source": "Open5e Originals"
+  },
+  {
+    "name": "Scoundrel",
+    "slug": "open5e_scoundrel",
+    "gamesystem_key": "5e-2014",
+    "desc": "You were brought up in a poor neighborhood in a crowded town or city. You may have been lucky enough to have a leaky roof over your head, or perhaps you grew up sleeping in doorways or on the rooftops. Either way, you didn't have it easy, and you lived by your wits. While never a hardened criminal, you fell in with the wrong crowd, or you ended up in trouble for stealing food from an orange cart or clean clothes from a washing line. You're no stranger to the city watch in your hometown and have outwitted or outrun them many times.",
+    "sections": {
+      "Equipment": "A bag of 1,000 ball bearings, a pet monkey wearing a tiny fez, a set of common clothes, and a pouch containing 10 gp",
+      "Languages": "No additional languages",
+      "Skill Proficiencies": "Athletics, Sleight of Hand",
+      "Suggested Characteristics": "Despite their poor upbringing, scoundrels tend to live a charmed life—never far from trouble, but usually coming out on top. Many are thrill-seekers who delight in taunting their opponents before making a flashy and daring escape. Most are generally good-hearted, but some are self-centered to the point of arrogance. Quieter, introverted types and the lawfully-inclined can find them very annoying.\n\n| d8 | Personality Trait                                                     |\n|----|-----------------------------------------------------------------------|\n| 1  | Flashing a big smile often gets me out of trouble.                    |\n| 2  | If I can just keep them talking, it will give me time to escape.      |\n| 3  | I get fidgety if I have to sit still for more than ten minutes or so. |\n| 4  | Whatever I do, I try to do it with style and panache.                 |\n| 5  | I don't hold back when there's free food and drink on offer.          |\n| 6  | Nothing gets me more annoyed than being ignored.                      |\n| 7  | I always sit with my back to the wall and my eyes on the exits.       |\n| 8  | Why walk down the street when you can run across the rooftops?        |\n\n| d6 | Ideal                                                                                                                 |\n|----|-----------------------------------------------------------------------------------------------------------------------|\n| 1  | **Freedom.** Ropes and chains are made to be broken. Locks are made to be picked. Doors are meant to be opened. (Chaotic) |\n| 2  | **Community.** We need to look out for one another and keep everyone safe. (Lawful)                                       |\n| 3  | **Charity.** I share my wealth with those who need it the most. (Good)                                                    |\n| 4  | **Friendship.** My friends matter more to me than lofty ideals. (Neutral)                                                 |\n| 5  | **Aspiration.** One day my wondrous deeds will be known across the world. (Any)                                           |\n| 6  | **Greed.** I'll stop at nothing to get what I want. (Evil)                                                                |\n\n| d6 | Bond                                                                                                                                |\n|----|-------------------------------------------------------------------------------------------------------------------------------------|\n| 1  | My elder sibling taught me how to find a safe hiding place in the city. This saved my life at least once.                           |\n| 2  | I stole money from someone who couldn't afford to lose it and now they're destitute. One day I'll make it up to them.               |\n| 3  | The street kids in my town are my true family.                                                                                      |\n| 4  | My mother gave me an old brass lamp. I polish it every night before going to sleep.                                                 |\n| 5  | When I was young, I was too scared to leap from the tallest tower in my hometown onto the hay cart beneath. I'll try again someday. |\n| 6  | A city guardsman let me go when they should have arrested me for stealing. I am forever in their debt.                              |\n\n| d6 | Flaw                                                                    |\n|----|-------------------------------------------------------------------------|\n| 1  | If there's a lever to pull, I'll pull it.                               |\n| 2  | It's not stealing if nobody realizes it's gone.                         |\n| 3  | If I don't like the odds, I'm out of there.                             |\n| 4  | I often don't know when to shut up.                                     |\n| 5  | I once filched a pipe from a priest. Now I think the god has cursed me. |\n| 6  | I grow angry when someone else steals the limelight.                    |",
+      "Tool Proficiencies": "One type of gaming set, thieves' tools",
+      "Urban Explorer": "You are familiar with the layout and rhythms of towns and cities. When you arrive in a new city, you can quickly locate places to stay, where to buy good quality gear, and other facilities. You can shake off pursuers when you are being chased through the streets or across the rooftops. You have a knack for leading pursuers into a crowded market filled with stalls piled high with breakable merchandise, or down a narrow alley just as a dung cart is coming in the other direction."
+    },
+    "source": "Open5e Originals"
+  },
+  {
+    "name": "Acolyte",
+    "slug": "srd-2024_acolyte",
+    "gamesystem_key": "5e-2024",
+    "desc": "",
+    "sections": {
+      "Ability Scores": "Intelligence, Wisdom, Charisma",
+      "Equipment": "*Choose A or B:* (A) Calligrapher's Supplies, Book (prayers), Holy Symbol, Parchment (10 sheets), Robe, 8 GP; or (B) 50 GP",
+      "Feat": "Magic Initiate (Cleric)",
+      "Skill Proficiencies": "Insight and Religion",
+      "Tool Proficiency": "Calligrapher's Supplies"
+    },
+    "source": "5e 2024 Rules"
+  },
+  {
+    "name": "Criminal",
+    "slug": "srd-2024_criminal",
+    "gamesystem_key": "5e-2024",
+    "desc": "",
+    "sections": {
+      "Ability Scores": "Dexterity, Constitution, Intelligence",
+      "Equipment": "*Choose A or B:* (A) 2 Daggers, Thieves' Tools, Crowbar, 2 Pouches, Traveler's Clothes, 16 GP; or (B) 50 GP",
+      "Feat": "Alert",
+      "Skill Proficiencies": "Sleight of Hand and Stealth",
+      "Tool Proficiency": "Thieves' Tools"
+    },
+    "source": "5e 2024 Rules"
+  },
+  {
+    "name": "Sage",
+    "slug": "srd-2024_sage",
+    "gamesystem_key": "5e-2024",
+    "desc": "",
+    "sections": {
+      "Ability Scores": "Constitution, Intelligence, Wisdom",
+      "Equipment": "*Choose A or B:* (A) Quarterstaff, Calligrapher's Supplies, Book (history), Parchment (8 sheets), Robe, 8 GP; or (B) 50 GP",
+      "Feat": "Magic Initiate (Wizard)",
+      "Skill Proficiencies": "Arcana and History",
+      "Tool Proficiency": "Calligrapher's Supplies"
+    },
+    "source": "5e 2024 Rules"
+  },
+  {
+    "name": "Soldier",
+    "slug": "srd-2024_soldier",
+    "gamesystem_key": "5e-2024",
+    "desc": "",
+    "sections": {
+      "Ability Scores": "Strength, Dexterity, Constitution",
+      "Equipment": "*Choose A or B:* (A) Spear, Shortbow, 20 Arrows, Gaming Set (same as above), Healer's Kit, Quiver, Traveler's Clothes, 14 GP; or (B) 50 GP",
+      "Feat": "Savage Attacker",
+      "Skill Proficiencies": "Athletics and Intimidation",
+      "Tool Proficiency": "Choose one kind of Gaming Set"
+    },
+    "source": "5e 2024 Rules"
+  },
+  {
+    "name": "Acolyte",
+    "slug": "srd_acolyte",
+    "gamesystem_key": "5e-2014",
+    "desc": "You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric performing sacred rites is not the same thing as channeling divine power.\r\n\r\nChoose a god, a pantheon of gods, or some other quasi-divine being from among those listed in \"Fantasy-Historical Pantheons\" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.",
+    "sections": {
+      "Equipment": "A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a pouch containing 15 gp",
+      "Languages": "Two of your choice",
+      "Shelter of the Faithful": "As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.\r\n\r\nYou might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.",
+      "Skill Proficiencies": "Insight, Religion",
+      "Suggested Characteristics": "Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.\r\n\r\n| d8 | Personality Trait |\r\n|---|---|\r\n| 1 | I idolize a particular hero of my faith, and constantly refer to that person's deeds and example. |\r\n| 2 | I can find common ground between the fiercest enemies, empathizing with them and always working toward peace. |\r\n| 3 | I see omens in every event and action. The gods try to speak to us, we just need to listen |\r\n| 4 | Nothing can shake my optimistic attitude. |\r\n| 5 | I quote (or misquote) sacred texts and proverbs in almost every situation. |\r\n| 6 | I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods. |\r\n| 7 | I've enjoyed fine food, drink, and high society among my temple's elite. Rough living grates on me. |\r\n| 8 | I've spent so long in the temple that I have little practical experience dealing with people in the outside world. |\r\n\r\n| d6 | Ideal |\r\n|---|---|\r\n| 1 | Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful) |\r\n| 2 | Charity. I always try to help those in need, no matter what the personal cost. (Good) |\r\n| 3 | Change. We must help bring about the changes the gods are constantly working in the world. (Chaotic) |\r\n| 4 | Power. I hope to one day rise to the top of my faith's religious hierarchy. (Lawful) |\r\n| 5 | Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. (Lawful) |\r\n| 6 | Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings. (Any) |\r\n\r\n| d6 | Bond |\r\n|---|---|\r\n| 1 | I would die to recover an ancient relic of my faith that was lost long ago. |\r\n| 2 | I will someday get revenge on the corrupt temple hierarchy who branded me a heretic. |\r\n| 3 | I owe my life to the priest who took me in when my parents died. |\r\n| 4 | Everything I do is for the common people. |\r\n| 5 | I will do anything to protect the temple where I served. |\r\n| 6 | I seek to preserve a sacred text that my enemies consider heretical and seek to destroy. |\r\n\r\n| d6 | Flaw |\r\n|---|---|\r\n| 1 | I judge others harshly, and myself even more severely. |\r\n| 2 | I put too much trust in those who wield power within my temple's hierarchy. |\r\n| 3 | My piety sometimes leads me to blindly trust those that profess faith in my god. |\r\n| 4 | I am inflexible in my thinking. |\r\n| 5 | I am suspicious of strangers and expect the worst of them. |\r\n| 6 | Once I pick a goal, I become obsessed with it to the detriment of everything else in my life. |"
+    },
+    "source": "5e 2014 Rules"
+  }
+]

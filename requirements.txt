@@ -1,0 +1,11 @@
+# D&D Manager dependencies.
+# Install with: pip install -r requirements.txt
+#
+# Streamlit is the only third-party dependency — the download/fetch scripts in
+# scripts/ use only the standard library (urllib, json, re).
+# Floor pinned to a version known to support st.navigation, st.toggle, st.html,
+# and width='stretch' as used throughout the app.
+streamlit>=1.49
+
+# Dev-only: test suite in tests/ (python -m pytest tests/)
+pytest
